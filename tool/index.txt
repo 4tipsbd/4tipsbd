@@ -1,0 +1,30 @@
+HTTrack3.48-21+htsswf+htsjava launched on Wed, 04 Sep 2019 13:37:57 at http://beautifytools.com/css-beautifier.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://beautifytools.com/css-beautifier.php -O1 "F:\offline\allll" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:39:27	Warning: 	Retry after error 409 (Conflict) at link beautifytools.com/contact-us.php (from beautifytools.com/css-beautifier.php)
+13:39:27	Warning: 	Retry after error -4 (No data (connection closed)) at link beautifytools.com/css-minifier.php (from beautifytools.com/css-beautifier.php)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-bg_flat_75_ffffff_40x100.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-bg_glass_75_e6e6e6_1x400.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-bg_glass_75_dadada_1x400.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-bg_glass_65_ffffff_1x400.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-bg_glass_55_fbf9ee_1x400.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-bg_glass_95_fef1ec_1x400.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-icons_222222_256x240.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-icons_888888_256x240.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-icons_454545_256x240.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-icons_2e83ff_256x240.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-icons_cd0a0a_256x240.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Error: 	"Not Found" (404) at link beautifytools.com/css/images/ui-bg_flat_0_aaaaaa_40x100.png (from beautifytools.com/css/jquery-ui.min.css)
+13:42:34	Warning: 	Retry after error 409 (Conflict) at link beautifytools.com/contact-us.php (from beautifytools.com/css-beautifier.php)
+13:42:35	Warning: 	Retry after error -4 (No data (connection closed)) at link beautifytools.com/css/html_beautifier.css (from beautifytools.com/html-beautifier.php)
+13:43:08	Error: 	"Conflict" (409) after 2 retries at link beautifytools.com/contact-us.php (from beautifytools.com/css-beautifier.php)
+13:43:08	Warning: 	Retry after error -4 (No data (connection closed)) at link beautifytools.com/js/css_minifier.js (from beautifytools.com/css-minifier.php)
+
+HTTrack Website Copier/3.48-21 mirror complete in 5 minutes 12 seconds : 425 links scanned, 405 files written (9044854 bytes overall) [7018499 bytes received at 22495 bytes/sec], 2991200 bytes transferred using HTTP compression in 137 files, ratio 21%, 13.2 requests per connection
+(14 errors, 5 warnings, 0 messages)
